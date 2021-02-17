@@ -1,6 +1,6 @@
 # damage-calc
 
-[![Circle CI](https://circleci.com/gh/quiztech/damage-calc-4005-v2-yarn.svg?style=svg)]
+![Circle CI](https://circleci.com/gh/quiztech/damage-calc-4005-v2-yarn.svg?style=svg)
 
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
